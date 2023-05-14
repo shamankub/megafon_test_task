@@ -1,0 +1,5 @@
+Server Name      Total Capacity
+-------------  ----------------
+Server 2                 115000
+Server 3                 120000
+Server 4                 120000
